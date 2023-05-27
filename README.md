@@ -22,3 +22,6 @@ By using this app you certify that you are over 18 years of age.  Our app does n
 We may update our Privacy Policy from time to time. Any changes we make will be posted on this page, and the revised date will be indicated at the top of the page. We encourage you to review this Privacy Policy periodically for any updates or changes.
 
 By using this app, you acknowledge that you have read and understood this Privacy Policy and agree to its terms and conditions.
+
+
+If you want your personal data deleted, please email us on info@leetgroup.net
